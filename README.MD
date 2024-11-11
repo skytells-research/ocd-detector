@@ -16,6 +16,17 @@ An AI-powered system for detecting and analyzing OCD patterns in digital communi
 
 OCD Detector is a cutting-edge artificial intelligence system designed to identify and analyze Obsessive-Compulsive Disorder (OCD) patterns across multiple communication channels. By leveraging advanced machine learning technologies, our system provides valuable insights for mental health professionals and researchers.
 
+![OCD Detector Technologies](https://raw.githubusercontent.com/skytells-research/ocd-detector/main/assets/technologies.png)
+
+The National Institute of Mental Health (NIMH) research indicates that individuals with OCD exhibit distinct patterns in their communication and behavioral manifestations[²], including:
+- Repetitive thoughts and behaviors
+- Specific language patterns and word choices
+- Time-consuming rituals that interfere with daily activities
+- Persistent intrusive thoughts
+
+Our system aligns with the NIH's dimensional approach to OCD assessment[³], analyzing these patterns across digital communications to support clinical evaluation and research.
+
+
 ### Key Technologies
 - 🧠 Advanced Natural Language Processing (NLP)
 - 👁️ Optical Character Recognition (OCR)
@@ -25,7 +36,10 @@ OCD Detector is a cutting-edge artificial intelligence system designed to identi
 
 ## Methodology
 
-Our OCD detection system employs sophisticated algorithms and statistical methods to analyze behavioral patterns. The core methodology includes:
+Our OCD detection system employs sophisticated algorithms and statistical methods to analyze behavioral patterns. 
+See [Research](RESEARCH.md) for more details.
+
+The core methodology includes:
 
 ### Pattern Recognition
 We utilize a modified attention mechanism that weighs behavioral markers ($b_i$) against temporal frequency ($f_t$):
@@ -184,6 +198,7 @@ Please refer to the [Running the Backend](backend/API.md) for detailed instructi
 ## Citation
 
 If you use this project in your research, please cite:
+
 ```bibtex
 @software{ocd_detector2024,
   author = {Skytells Research},
@@ -197,8 +212,8 @@ If you use this project in your research, please cite:
 
 - 📫 [Report Issues](https://github.com/skytells-research/ocd-detector/issues)
 - 💬 [Community Discussions](https://github.com/skytells-research/ocd-detector/discussions)
-- 📖 [Documentation](https://ocd-detector.readthedocs.io/)
-- 🤝 [Contributing](contribution.md)
+- 📖 [Documentation](docs/README.md)
+- 🤝 [Contributing](CONTRIBUTING.md)
 
 ## Contributors
 
@@ -217,6 +232,20 @@ If you find this project useful, consider sponsoring us on GitHub to support ong
 - TensorFlow team for model architecture insights
 - Our amazing contributors and research partners
 
+
+## References
+
+[¹] World Health Organization. (2022). Obsessive-compulsive disorder fact sheet. WHO Mental Health Atlas.
+https://www.who.int/news-room/fact-sheets/detail/obsessive-compulsive-disorder
+
+[²] National Institute of Mental Health. (2023). Obsessive-Compulsive Disorder: Signs, Symptoms and Treatment.
+https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd
+
+[³] Mataix-Cols, D., et al. (2016). Dimensional Assessment of Obsessive-Compulsive Disorder: National Institute of Mental Health Proceedings. NIH Public Access.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4332094/
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+For more info, Please contact Skytells Research on our [website](https://skytells.io)
