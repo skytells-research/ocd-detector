@@ -9,7 +9,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/skytells-research/ocd-detector)](https://github.com/skytells-research/ocd-detector/issues)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Skytells-orange)](https://github.com/sponsors/skytells-research)
-[![Build](https://github.com/skytells-research/ocd-detector/actions/workflows/build.yml/badge.svg)](https://github.com/skytells-research/ocd-detector/actions/workflows/build.yml)
+
 
 An AI-powered system for detecting and analyzing OCD patterns in digital communications
 </div>
