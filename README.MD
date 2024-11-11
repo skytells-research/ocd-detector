@@ -16,7 +16,7 @@ An AI-powered system for detecting and analyzing OCD patterns in digital communi
 
 OCD Detector is a cutting-edge artificial intelligence system designed to identify and analyze Obsessive-Compulsive Disorder (OCD) patterns across multiple communication channels. By leveraging advanced machine learning technologies, our system provides valuable insights for mental health professionals and researchers.
 
-![OCD Detector Technologies](https://raw.githubusercontent.com/skytells-research/ocd-detector/main/assets/technologies.png)
+![OCD Detector Technologies](https://raw.githubusercontent.com/skytells-research/ocd-detector/main/assets/ocd-detector.jpeg)
 
 The National Institute of Mental Health (NIMH) research indicates that individuals with OCD exhibit distinct patterns in their communication and behavioral manifestations[²], including:
 - Repetitive thoughts and behaviors
