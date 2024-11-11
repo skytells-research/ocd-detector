@@ -1,9 +1,14 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-
 version: 2
 updates:
-- package-ecosystem: "" # See documentation for possible values
-  directory: "/" # Location of package manifests
-  schedule:
-    interval: "weekly"
+  - package-ecosystem: "pip" # Python package manager for backend dependencies
+    directory: "/backend" # Location of backend's requirements.txt
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm" # Node.js package manager for frontend dependencies
+    directory: "/frontend" # Location of the frontend's package.json
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "npm" # Node.js package manager for frontend-nextjs dependencies
+    directory: "/frontend-nextjs" # Location of the Next.js frontend's package.json
+    schedule:
+      interval: "weekly"
