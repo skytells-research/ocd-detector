@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="OCD Detector Logo" style="max-height: 20vh;">
+<img src="assets/logo.png" alt="OCD Detector Logo" style="max-height: 20%; max-width: 20%;">
 
 [![GitHub license](https://img.shields.io/github/license/skytells-research/ocd-detector)](https://github.com/skytells-research/ocd-detector/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/skytells-research/ocd-detector)](https://github.com/skytells-research/ocd-detector/stargazers)
