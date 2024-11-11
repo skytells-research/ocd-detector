@@ -237,14 +237,14 @@ If you find this project useful, consider sponsoring us on GitHub to support ong
 
 ## References
 
-[¹] World Health Organization. (2022). Obsessive-compulsive disorder fact sheet. WHO Mental Health Atlas.
-https://www.who.int/news-room/fact-sheets/detail/obsessive-compulsive-disorder
-
-[²] National Institute of Mental Health. (2023). Obsessive-Compulsive Disorder: Signs, Symptoms and Treatment.
-https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd
-
-[³] Mataix-Cols, D., et al. (2016). Dimensional Assessment of Obsessive-Compulsive Disorder: National Institute of Mental Health Proceedings. NIH Public Access.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4332094/
+> [¹] World Health Organization. (2022). Obsessive-compulsive disorder fact sheet. WHO Mental Health Atlas.  
+> https://www.who.int/news-room/fact-sheets/detail/obsessive-compulsive-disorder
+>
+> [²] National Institute of Mental Health. (2023). Obsessive-Compulsive Disorder: Signs, Symptoms and Treatment.  
+> https://www.nimh.nih.gov/health/topics/obsessive-compulsive-disorder-ocd
+>
+> [³] Mataix-Cols, D., et al. (2016). Dimensional Assessment of Obsessive-Compulsive Disorder: National Institute of Mental Health Proceedings. NIH Public Access.  
+> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4332094/
 
 ## License
 
