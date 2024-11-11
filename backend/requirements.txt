@@ -1,0 +1,11 @@
+
+fastapi
+uvicorn
+transformers
+datasets
+torch
+pytesseract
+Pillow
+speechrecognition
+pyaudio
+openai

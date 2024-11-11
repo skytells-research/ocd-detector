@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+transformers
+datasets
+torch
+scikit-learn
+pytesseract
+Pillow
+streamlit
+openai
+pyaudio
+pydub
+pyaudio-0.2.12-cp38-cp38-win_amd64.whl
+streamlit-audio
